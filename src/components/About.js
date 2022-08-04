@@ -39,11 +39,11 @@ export default function About() {
                     </div>
                 </div>
 
-                <div className="md:w-1/5 w-2/6">
+                <div className="md:w-1/6 w-2/7">
                     <img
                         className="object-cover object-center rounded-full"
-                        alt="hero"
-                        src={require("./me.jpg")}
+                        alt="moi"
+                        src={require("./me1.jpg")}
                     />
                 </div>
 
